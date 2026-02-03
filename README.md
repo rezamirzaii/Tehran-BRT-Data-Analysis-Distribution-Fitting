@@ -1,13 +1,13 @@
-# IMDb-Top-250-movies
+# Tehran-BRT-Data-Analysis-Distribution-Fitting
 
-•	Scraped and analyzed IMDb Top 250 movies data using Python (web crawling), then built an interactive Excel dashboard for filtering, visualization, and box office insights.
+•	•	Comprehensive analysis of passenger flow and travel patterns in Tehran BRT stations through statistical distribution fitting and probabilistic modeling.
 
 ## Tech Used
 
-**Python:** Web Scraping, Selenium, BeautifulSoup, Pandas , Regex
+**Python:** Pandas, Numpy, Scipy, matplotlib, Seaborn
 
 
-**Excel** Pivot Table, Dashbaording
+**Excel** 
 
 
 ## Authors
@@ -15,10 +15,4 @@
 - [Reza Mirzaii](https://github.com/rezamirzaii)
 
 
-## Acknowledgements
 
- - [Mehran Mahdiani]() (Bootcamp Mentor)
-
- - [Melika Molaii]() (Bootcamp Manager)
-
- - [Quera College](https://Quera.org)
